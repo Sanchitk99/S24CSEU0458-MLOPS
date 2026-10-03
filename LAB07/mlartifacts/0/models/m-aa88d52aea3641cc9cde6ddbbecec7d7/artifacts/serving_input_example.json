@@ -1,0 +1,18 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "distance_km",
+      "prep_time_min",
+      "traffic_level",
+      "rain"
+    ],
+    "data": [
+      [
+        3.0,
+        15,
+        1,
+        0
+      ]
+    ]
+  }
+}
